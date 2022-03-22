@@ -19,7 +19,7 @@ Our research aims to develop data-driven tools to allow for high-fidelity simula
 If you are interested in collaborating with us, please [contact us](mailto:info@greenlastmile.ai)
 
 ## Team
-**Academmic research team**
+**Academic research team**
 - [Dr. Maria Astefanoaei](https://mariaast.github.io/) (ITU, Copenhagen)
 - [Dr. Akash Srivastava](https://akashgit.github.io) (MIT/IBM, Boston)
 - [Dr. Kai Xu](https://xuk.ai/) (London/NYC)
