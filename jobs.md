@@ -1,3 +1,7 @@
+---
+title: Jobs
+---
+
 # Open Jobs
 
 ## Postdoctoral Researcher / Research Associate
