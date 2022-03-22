@@ -25,7 +25,7 @@ If you are interested in collaborating with us, please [contact us](mailto:info@
 - [Dr. Kai Xu](https://xuk.ai/) (London/NYC)
 
 **industry impact partner**
-- [kale collective](kalecollective.co.uk) (London)
+- [kale collective](https://kalecollective.co.uk/) (London)
 
 ## Logistics partners
 TBA
