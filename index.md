@@ -24,7 +24,7 @@ If you are interested in collaborating with us, please [contact us](mailto:info@
 - [Dr. Akash Srivastava](https://akashgit.github.io) (MIT/IBM, Boston)
 - [Dr. Kai Xu](https://xuk.ai/) (London/NYC)
 
-**industry impact partner
+**industry impact partner**
 - [kale collective](kalecollective.co.uk) (London)
 
 ## Logistics partners
