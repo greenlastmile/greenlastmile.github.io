@@ -20,8 +20,8 @@ If you are interested in collaborating with us, please [contact us](mailto:info@
 
 ## Team
 **Academic research team**
-- [Dr. Maria Astefanoaei](https://mariaast.github.io/) (ITU, Copenhagen)
-- [Dr. Akash Srivastava](https://akashgit.github.io) (MIT/IBM, Boston)
+- [Dr. Maria Astefanoaei](https://mariaast.github.io/) (ITU, Copenhagen, Denmark)
+- [Dr. Akash Srivastava](https://akashgit.github.io) (MIT/IBM, Cambridge, MA, US)
 - [Dr. Kai Xu](https://xuk.ai/) (London/NYC)
 
 **industry impact partner**
