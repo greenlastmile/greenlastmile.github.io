@@ -16,7 +16,7 @@ Despite this competitive advantages in dense urban areas, their widespread adopt
 
 Our research aims to develop data-driven tools to allow for high-fidelity simulation of hybrid (vans+cargo-bikes) fleet-operation under real-world settings. 
 
-If you are interested in collaborating with us, please [contact us](mailto:info@greenlastmile.ai)
+If you are interested in collaborating with us, please [contact us](mailto:info@greenlastmile.ai).
 
 ## Team
 **Academic research team**
