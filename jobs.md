@@ -14,7 +14,7 @@ title: Jobs
 
 ### Opportunity of the job
 
-We are seeking a postdoc/research associate for a fixed-term period of 6-9 months. The position is expected to start from April 2022. 
+We are seeking a postdoc/research associate for a fixed-term period of 9-12 months. The position is expected to start from April 2022. 
 
 This is an exciting opportunity for an early career researcher, having completed or currently pursuing a PhD in a field related to deep learning, machine learning, mathematical optimisation or data science.
 
