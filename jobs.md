@@ -22,7 +22,7 @@ The research position is supported by a [Climate Change AI](https://www.climatec
 
 The research will be in collaboration with academics at ITU (Copenhagen, Denmark) and MIT/IBM Research (Cambridge, MA, US), as well as an industry partner based in London, working at the intersection of machine learning and urban logistics.
 
-The supervisors for this project are Dr Maria Astefanoaei (ITU), [Dr Akash Srivastava](http://akashgit.github.io/) (MIT/IBM Research) and Dr Kai Xu (Edinburgh University). The industry partner is [Kale Collective](https://kalecollective.co.uk/), a London-based start-up, and its network of cargo bike logistics partners. 
+The supervisors for this project are [Dr Maria Astefanoaei](https://mariaast.github.io/) (ITU), [Dr Akash Srivastava](http://akashgit.github.io/) (MIT/IBM Research) and [Dr Kai Xu](https://xuk.ai/) (Edinburgh University). The industry partner is [Kale Collective](https://kalecollective.co.uk/), a London-based start-up, and its network of cargo bike logistics partners. 
 
 ### Project aims
 
