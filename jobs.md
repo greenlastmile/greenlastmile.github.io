@@ -1,28 +1,28 @@
----
-title: Jobs
----
+# Job description
 
-# Open Jobs
-
-## Postdoctoral Researcher / Research Associate
+**Job title**: Research Associate/Assistant (PhD/postdoc level) 
 
 **Location**: Copenhagen, Boston, London or remote
 
 **Duration**: 9-12 months full-time
 
-**Level**:  PhD level, or postdoc
+**Salary:** The salary is competitive and in accordance with the experience of the candidate and the criteria of the lead institution
+
+**Level**: 
+
+This is an exciting opportunity for an early career researcher, having completed or currently pursuing a PhD in a field related to deep learning, data science, statistics or mathematical optimization. This position can also be tailored as a long-term PhD internship, or be integrated in a PhD project. Our funding will allow compensation up to the postdoc level. 
+
+Given the uniqueness of the project, we are open for applications from **motivated MSc students (US: undergraduate seniors)** who are looking to gain research experience, with the potential for high impact publications, before joining a PhD program.
 
 ### Opportunity of the job
 
-We are seeking a postdoc/research associate for a fixed-term period of 9-12 months. The position is expected to start from April 2022. 
-
-This is an exciting opportunity for an early career researcher, having completed or currently pursuing a PhD in a field related to deep learning, machine learning, mathematical optimisation or data science.
+We are seeking a research associate for a fixed-term period of 6-9 months. The position is expected to start from May 2022. 
 
 The research position is supported by a [Climate Change AI](https://www.climatechange.ai/) Innovation Grant that aims to leverage machine learning for environmental impact.  
 
 The research will be in collaboration with academics at ITU (Copenhagen, Denmark) and MIT/IBM Research (Cambridge, MA, US), as well as an industry partner based in London, working at the intersection of machine learning and urban logistics.
 
-The supervisors for this project are Dr Maria Astefanoaei (ITU), Dr Akash Srivastava (MIT/IBM Research) and Dr Kai Xu (Edinburgh University). The industry partner is [Kale Collective](https://kalecollective.co.uk/), a London-based start-up, and its network of cargo bike logistics partners. 
+The supervisors for this project are Dr Maria Astefanoaei (ITU), [Dr Akash Srivastava](http://akashgit.github.io/) (MIT/IBM Research) and Dr Kai Xu (Edinburgh University). The industry partner is [Kale Collective](https://kalecollective.co.uk/), a London-based start-up, and its network of cargo bike logistics partners. 
 
 ### Project aims
 
@@ -30,19 +30,25 @@ Cargo bike logistics has been put forward as a competitive, zero-emission candid
 
 Despite these competitive advantages in dense urban areas, their widespread adoption by logistics operators is limited. This is primarily due to the lack of inexpensive ways of accurately evaluating their impact on the cost of business.
 
-To this end, the project aims to develop data-driven tools to allow for accurate models of hybrid (vans+cargo-bikes) fleet operation under real-world settings. This framework will enable key stakeholders to run feasibility studies towards optimising and diversifying their fleet composition in a cost-effective manner.
+To this end, the project aims to develop data-driven tools to allow for accurate models of hybrid (vans+cargo-bikes) fleet operation under real-world settings. This framework will enable key stakeholders to run feasibility studies towards optimizing and diversifying their fleet composition.
 
 ### Your skills and attributes for success
 
-- Master's degree or in the process of pursuing a PhD in deep learning, machine learning and mathematical optimisation.
-- Extensive experience with the implementation of deep learning models using TensorFlow or PyTorch.
-- Familiarity with Python and/or Julia/R.
+- High proficiency in a scientific programming language (Python and/or Julia/R).
 
-### Desirable skills, but not required
+**Experience in at least one of the following:**
 
-- PhD in topics at the intersection of deep learning and combinatorial optimisation or PhD in machine learning topics related to representation learning, graph neural network, structured data.
-- Experience in problems related to (urban) logistics or Operations Research (OR)
-- Experience working with GPS mobility data, open street map (OSM), street networks
+- deep learning, machine learning or mathematical optimization
+- Urban data science, mobility data, open street map (OSM), street networks
+- scientific/computational modelling of behavior, or complex systems
+
+**Desirable skills, but not required**
+
+- Experience with the implementation of deep learning models using TensorFlow or PyTorch.
+- Research experience in one of the following:
+    - topics at the intersection of deep learning and combinatorial optimization
+    - machine learning topics related to representation learning, graph neural network, structured data.
+    - problems related to urban mobility or Operations Research (OR)
 
 ### As a part of this project, you can expect
 
@@ -52,4 +58,4 @@ Help layout the ground for future research focusing on the application of machin
 
 ### How to apply?
 
-Please reach out to us at greenlastmile@gmail.com with your recent CV and a short paragraph on your motivation to apply for this position.
+Please reach out to us at greenlastmile@gmail.com with your recent CV and a short blurb on your motivation to apply for this position and preferred location.
