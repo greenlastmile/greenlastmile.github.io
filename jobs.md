@@ -4,7 +4,7 @@
 
 **Location**: Copenhagen, Boston, London or remote
 
-**Duration**: 9-12 months full-time
+**Duration**: up to 12 months full-time
 
 **Salary:** The salary is competitive and in accordance with the experience of the candidate and the criteria of the lead institution
 
@@ -16,7 +16,7 @@ Given the uniqueness of the project, we are open for applications from **motivat
 
 ### Opportunity of the job
 
-We are seeking a research associate for a fixed-term period of 6-9 months. The position is expected to start from May 2022. 
+We are seeking a research associate for a fixed-term period up to a year. The position is expected to start from May 2022. 
 
 The research position is supported by a [Climate Change AI](https://www.climatechange.ai/) Innovation Grant that aims to leverage machine learning for environmental impact.  
 
