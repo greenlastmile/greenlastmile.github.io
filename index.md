@@ -4,9 +4,6 @@ title: Green Last Mile
 
 # The Green Last Mile Project
 
-## Research position
-Please see our [jobs page](/jobs) for our research position call.
-
 ## Project background
 Today, transport accounts for around 30% of a city's carbon emissions, and it is expected to grow at a faster rate than any other sector in the coming decade. One of the drivers behind this acceleration is the increasing demand for faster logistics due to the boom of the e-commerce industry. 
 
@@ -28,6 +25,21 @@ If you are interested in collaborating with us, please [contact us](mailto:info@
 - [Kale Collective](https://kalecollective.co.uk/) (London)
 
 ## Logistics partners
-TBA
+
+- [Pedal Me](https://pedalme.co.uk/) (London)
+
+- [Urbike](https://urbike.be/) (Brussels)
+
+- [Larry vs Harry](https://www.larryvsharry.com/) (Copenhagen)
+
+
+Urbike in Brussels             |  Pedal Me in London
+:-------------------------:|:-------------------------:
+![](/images/urbike-cargo.jpg)  |  ![](/images/pedalme-cargo.jpg)
+
+
+
+## Research position
+We have now closed the applications for research positions for the project (10/05/2022).
 
 
