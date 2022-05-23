@@ -9,9 +9,9 @@ Today, transport accounts for around 30% of a city's carbon emissions, and it is
 
 Light goods vehicles (LGV) used extensively in the last mile of delivery are one of the leading polluters in cities. Recently, cargo bike logistics has been put forward as a competitive, zero-emission candidate for replacing LGVs in urban areas, with experts estimating 25-50% of van deliveries being replaceable by cargo bikes. Due to their faster speeds, shorter parking times and more efficient routes across cities, they can out-compete traditional van logistics when operated effectively.
 
-Despite this competitive advantages in dense urban areas, their widespread adoption by logistics operator is limited. This is primarily due to the lack of inexpensive ways of accurately evaluating their impact on the cost of business.
+Despite this competitive advantages in dense urban areas, their widespread adoption by logistics operators is limited. This is primarily due to the lack of inexpensive ways of accurately evaluating their impact on the cost of business. 
 
-Our research aims to develop data-driven tools to allow for high-fidelity simulation of hybrid (vans+cargo-bikes) fleet-operation under real-world settings. 
+Our research aims to develop data-driven tools to allow for high-fidelity simulation of hybrid (vans+cargo-bikes) fleet operations under real-world settings, focusing on modelling the differences in behaviour of vehicles across types of urban areas. Better ways of assessing the efficiency of hybrid fleets can, in turn, help accelerate the uptake of cycle-logistics in cities through increased collaboration with cargo-bike operators and a wider rollout of cargo-bikes in delivery fleets.
 
 If you are interested in collaborating with us, please [contact us](mailto:info@greenlastmile.ai).
 
